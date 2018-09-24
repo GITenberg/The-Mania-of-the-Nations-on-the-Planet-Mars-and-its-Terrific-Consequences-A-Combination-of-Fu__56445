@@ -1,5 +1,8 @@
 _repo: The-Mania-of-the-Nations-on-the-Planet-Mars-and-its-Terrific-Consequences-A-Combination-of-Fu__56445
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56445-h/images/cover.jpg
 creator:
   author:
     agent_name: Calmadenker, A.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48850'
     url: http://www.gutenberg.org/2009/agents/48850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56445#The-Mania-of-the-Nations-on-the-Planet-Mars-and-its-Terrific-Consequences-A-Combination-of-Fu_
 gutenberg_issued: '2018-01-27'
 gutenberg_type: Text
 identifiers:
